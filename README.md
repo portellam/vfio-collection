@@ -39,11 +39,11 @@ A curated compilation and directory of VFIO related projects.
 
 ### 3. Contact
 Wish to recommend a project? Do you
-need help? Please visit the **Issues page** ([Codeberg][codeberg-issues],
-[GitHub][github-issues]).
+need help? Please visit the **Issues page** ([Codeberg][contact-codeberg],
+[GitHub][contact-github]).
 
-[codeberg-issues]: https://codeberg.org/portellam/vfio-collection/issues
-[github-issues]:   https://github.com/portellam/vfio-collection/issues
+[contact-codeberg]: https://codeberg.org/portellam/vfio-collection/issues
+[contact-github]:   https://github.com/portellam/vfio-collection/issues
 
 ### 4. References
 #### 1.
