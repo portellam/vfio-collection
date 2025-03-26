@@ -18,18 +18,18 @@ A curated compilation and directory of VFIO related projects.
 | Libvirt Hooks                       | [link][codeberg5] | [link][github5] |
 | Power State Virtual Machine Manager | [link][codeberg6] | [link][github6] |
 
-[codeberg1]: https://codeberg.org/portellam/auto-xorg
-[github1]:   https://github.com/portellam/auto-xorg
-[codeberg2]: https://codeberg.org/portellam/deploy-VFIO
-[github2]:   https://github.com/portellam/deploy-VFIO
-[codeberg3]: https://codeberg.org/portellam/generate-evdev
-[github3]:   https://github.com/portellam/generate-evdev
-[codeberg4]: https://codeberg.org/portellam/guest-machine-guide
-[github4]:   https://github.com/portellam/guest-machine-guide
-[codeberg5]: https://codeberg.org/portellam/libvirt-hooks
-[github5]:   https://github.com/portellam/libvirt-hooks
-[codeberg6]: https://codeberg.org/portellam/powerstate-virtmanager
-[github6]:   https://github.com/portellam/powerstate-virtmanager
+[related-codeberg1]: https://codeberg.org/portellam/auto-xorg
+[related-github1]:   https://github.com/portellam/auto-xorg
+[related-codeberg2]: https://codeberg.org/portellam/deploy-VFIO
+[related-github2]:   https://github.com/portellam/deploy-VFIO
+[related-codeberg3]: https://codeberg.org/portellam/generate-evdev
+[related-github3]:   https://github.com/portellam/generate-evdev
+[related-codeberg4]: https://codeberg.org/portellam/guest-machine-guide
+[related-github4]:   https://github.com/portellam/guest-machine-guide
+[related-codeberg5]: https://codeberg.org/portellam/libvirt-hooks
+[related-github5]:   https://github.com/portellam/libvirt-hooks
+[related-codeberg6]: https://codeberg.org/portellam/powerstate-virtmanager
+[related-github6]:   https://github.com/portellam/powerstate-virtmanager
 
 ### 2. Documentation
 - What is VFIO?[<sup>[2]</sup>](#2)
