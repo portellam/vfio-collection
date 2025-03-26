@@ -32,10 +32,10 @@ A curated compilation and directory of VFIO related projects.
 [github6]:   https://github.com/portellam/powerstate-virtmanager
 
 ### 2. Documentation
-- What is VFIO?[<sup>2</sup>](#2)
-- VFIO Discussion and Support[<sup>3</sup>](#3)
-- Hardware-Passthrough Guide[<sup>1</sup>](#1)
-- Virtual Machine XML Format Guide[<sup>4</sup>](#4)
+- What is VFIO?[<sup>[2]</sup>](#2)
+- VFIO Discussion and Support[<sup>[3]</sup>](#3)
+- Hardware-Passthrough Guide[<sup>[1]</sup>](#1)
+- Virtual Machine XML Format Guide[<sup>[4]</sup>](#4)
 
 ### 3. Contact
 Wish to recommend a project? Or to offer feedback on a linked repository? Do you
