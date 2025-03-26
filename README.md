@@ -36,7 +36,6 @@ A curated compilation and directory of VFIO related projects.
 - VFIO Discussion and Support[<sup>3</sup>](#3)
 - Hardware-Passthrough Guide[<sup>1</sup>](#1)
 - Virtual Machine XML Format Guide[<sup>4</sup>](#4)
-- [test](#5)
 
 ### 3. Contact
 Wish to recommend a project? Or to offer feedback on a linked repository? Do you
@@ -67,6 +66,3 @@ The linux kernel. Accessed June 14, 2024.
 &nbsp;&nbsp;**XML Design Format**. GitHub - libvirt/libvirt. Accessed June 18, 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>https://github.com/libvirt/libvirt/blob/master/docs/formatdomain.rst.</sup>
-
-<!-- #### 5. -->
-**Five.**
