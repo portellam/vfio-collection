@@ -38,7 +38,7 @@ A curated compilation and directory of VFIO related projects.
 - Virtual Machine XML Format Guide[<sup>[4]</sup>](#4)
 
 ### 3. Contact
-Wish to recommend a project? Or to offer feedback on a linked repository? Do you
+Wish to recommend a project? Do you
 need help? Please visit the **Issues page** ([Codeberg][codeberg-issues],
 [GitHub][github-issues]).
 
