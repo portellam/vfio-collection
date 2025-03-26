@@ -9,14 +9,14 @@ A curated compilation and directory of VFIO related projects.
 
 ## Contents
 ### 1. Related Projects
-| Project                             | Codeberg          | GitHub          |
-| :---                                | :---:             | :---:           |
-| Auto X.Org                          | [link][codeberg1] | [link][github1] |
-| Deploy VFIO                         | [link][codeberg2] | [link][github2] |
-| Generate Evdev                      | [link][codeberg3] | [link][github3] |
-| Guest Machine Guide                 | [link][codeberg4] | [link][github4] |
-| Libvirt Hooks                       | [link][codeberg5] | [link][github5] |
-| Power State Virtual Machine Manager | [link][codeberg6] | [link][github6] |
+| Project                             | Codeberg                  | GitHub                  |
+| :---                                | :---:                     | :---:                   |
+| Auto X.Org                          | [link][related-codeberg1] | [link][related-github1] |
+| Deploy VFIO                         | [link][related-codeberg2] | [link][related-github2] |
+| Generate Evdev                      | [link][related-codeberg3] | [link][related-github3] |
+| Guest Machine Guide                 | [link][related-codeberg4] | [link][related-github4] |
+| Libvirt Hooks                       | [link][related-codeberg5] | [link][related-github5] |
+| Power State Virtual Machine Manager | [link][related-codeberg6] | [link][related-github6] |
 
 [related-codeberg1]: https://codeberg.org/portellam/auto-xorg
 [related-github1]:   https://github.com/portellam/auto-xorg
