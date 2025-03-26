@@ -40,25 +40,29 @@ A curated compilation and directory of VFIO related projects.
 - [Virtual Machine XML Format Guide](#4)
 
 ### 3. Contact
+---
 Wish to recommend a project? Or to offer feedback on a linked repository? Do you
 need help? Please visit the **Issues page** ([Codeberg][codeberg-issues],
 [GitHub][github-issues]).
 
+[codeberg-issues]: https://codeberg.org/portellam/vfio-collection/issues
+[github-issues]:   https://github.com/portellam/vfio-collection/issues
+
 ### 4. References
 ---
 #### 1.
-**PCI passthrough via OVMF**. ArchWiki. Accessed June 14, 2024.
-<sup>https://wiki.archlinux.org/title/PCI_passthrough_via_OVMF.</sup>
+&nbsp;&nbsp;**PCI passthrough via OVMF**. ArchWiki. Accessed June 14, 2024.
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>https://wiki.archlinux.org/title/PCI_passthrough_via_OVMF.</sup>
 
 #### 2.
-**VFIO - ‘Virtual Function I/O’ - The Linux Kernel Documentation**.
+&nbsp;&nbsp;**VFIO - ‘Virtual Function I/O’ - The Linux Kernel Documentation**.
 The linux kernel. Accessed June 14, 2024.
-<sup>https://www.kernel.org/doc/html/latest/driver-api/vfio.html.</sup>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>https://www.kernel.org/doc/html/latest/driver-api/vfio.html.</sup>
 
 #### 3.
-**VFIO Discussion and Support**. Reddit. Accessed June 14, 2024.
-<sup>https://www.reddit.com/r/VFIO/.</sup>
+&nbsp;&nbsp;**VFIO Discussion and Support**. Reddit. Accessed June 14, 2024.
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>https://www.reddit.com/r/VFIO/.</sup>
 
 #### 4.
-**XML Design Format**. GitHub - libvirt/libvirt. Accessed June 18, 2024.
-<sup>https://github.com/libvirt/libvirt/blob/master/docs/formatdomain.rst.</sup>
+&nbsp;&nbsp;**XML Design Format**. GitHub - libvirt/libvirt. Accessed June 18, 2024.
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>https://github.com/libvirt/libvirt/blob/master/docs/formatdomain.rst.</sup>
