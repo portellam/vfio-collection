@@ -9,7 +9,7 @@ A curated compilation and directory of VFIO related projects.
 
 ## Contents
 ### 1. Related Projects
----
+-----
 | Project                             | Codeberg          | GitHub          |
 | :---                                | :---:             | :---:           |
 | Auto X.Org                          | [link][codeberg1] | [link][github1] |
@@ -33,14 +33,14 @@ A curated compilation and directory of VFIO related projects.
 [github6]:   https://github.com/portellam/powerstate-virtmanager
 
 ### 2. Documentation
----
+-----
 - [What is VFIO?](#2)
 - [VFIO Discussion and Support](#3)
 - [Hardware-Passthrough Guide](#1)
 - [Virtual Machine XML Format Guide](#4)
 
 ### 3. Contact
----
+-----
 Wish to recommend a project? Or to offer feedback on a linked repository? Do you
 need help? Please visit the **Issues page** ([Codeberg][codeberg-issues],
 [GitHub][github-issues]).
@@ -49,7 +49,7 @@ need help? Please visit the **Issues page** ([Codeberg][codeberg-issues],
 [github-issues]:   https://github.com/portellam/vfio-collection/issues
 
 ### 4. References
----
+-----
 #### 1.
 &nbsp;&nbsp;**PCI passthrough via OVMF**. ArchWiki. Accessed June 14, 2024.
 
