@@ -1,10 +1,10 @@
 # VFIO Collection
 A curated compilation and directory of VFIO related projects.
 
+##
 ### Alternate Git repositories: [Codeberg][01] | [GitHub][02]
 [01]: https://codeberg.org/portellam/vfio-collection
 [02]: https://github.com/portellam/vfio-collection
-##
 
 ## Table of Contents
 - [1. Related Projects](#1-related-projects)
@@ -14,7 +14,6 @@ A curated compilation and directory of VFIO related projects.
 
 ## Contents
 ### 1. Related Projects
-##
 | Project                             | Codeberg    | GitHub      |
 | :---                                | :---:       | :---:       |
 | Auto X.Org                          | [link][101] | [link][102] |
@@ -43,22 +42,22 @@ A curated compilation and directory of VFIO related projects.
 [115]: https://codeberg.org/portellam/vfio-script
 [116]: https://github.com/portellam/vfio-script
 
-### 2. Documentation
 ##
+### 2. Documentation
 - What is VFIO?[<sup>[2]</sup>](#2)
 - VFIO Discussion and Support[<sup>[3]</sup>](#3)
 - Hardware-Passthrough Guide[<sup>[1]</sup>](#1)
 - Virtual Machine XML Format Guide[<sup>[4]</sup>](#4)
 
-### 3. Contact
 ##
+### 3. Contact
 Wish to recommend a project? Do you
 need help? Please visit the [Issues page][31].
 
 [31]: ./issues
 
-### 4. References
 ##
+### 4. References
 #### 1.
 &nbsp;&nbsp;**PCI passthrough via OVMF**. ArchWiki. Accessed June 14, 2024.
 
