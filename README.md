@@ -1,6 +1,10 @@
 # VFIO Collection
 A curated compilation and directory of VFIO related projects.
 
+### [www.Codeberg.org][01] | [www.GitHub.com][02]
+[01]: https://codeberg.org/portellam/vfio-collection
+[02]: https://github.com/portellam/vfio-collection
+
 ## Table of Contents
 - [1. Related Projects](#1-related-projects)
 - [2. Documentation](#2-documentation)
@@ -9,15 +13,15 @@ A curated compilation and directory of VFIO related projects.
 
 ## Contents
 ### 1. Related Projects
-| Project                             | Codeberg    | GitHub      |
-| :---                                | :---:       | :---:       |
-| Auto X.Org                          | [link][101] | [link][102] |
-| Deploy VFIO                         | [link][103] | [link][104] |
-| Generate Evdev                      | [link][105] | [link][106] |
-| Guest Machine Guide                 | [link][107] | [link][108] |
-| Libvirt Hooks                       | [link][109] | [link][110] |
-| Parse IOMMU Devices                 | [link][111] | [link][112] |
-| Power State Virtual Machine Manager | [link][113] | [link][114] |
+| Project                               | Codeberg    | GitHub      |
+| :---                                  | :---:       | :---:       |
+| [Auto X.Org]                          | [link][101] | [link][102] |
+| [Deploy VFIO]                         | [link][103] | [link][104] |
+| [Generate Evdev]                      | [link][105] | [link][106] |
+| [Guest Machine Guide]                 | [link][107] | [link][108] |
+| [Libvirt Hooks]                       | [link][109] | [link][110] |
+| [Parse IOMMU Devices]                 | [link][111] | [link][112] |
+| [Power State Virtual Machine Manager] | [link][113] | [link][114] |
 
 [101]: https://codeberg.org/portellam/auto-xorg
 [102]: https://github.com/portellam/auto-xorg
@@ -42,11 +46,9 @@ A curated compilation and directory of VFIO related projects.
 
 ### 3. Contact
 Wish to recommend a project? Do you
-need help? Please visit the **Issues page** ([Codeberg][31],
-[GitHub][32]).
+need help? Please visit the [Issues page][31].
 
-[31]: https://codeberg.org/portellam/vfio-collection/issues
-[32]: https://github.com/portellam/vfio-collection/issues
+[31]: ./issues
 
 ### 4. References
 #### 1.
