@@ -5,7 +5,7 @@ A curated compilation and directory of VFIO related projects.
 [01]: https://codeberg.org/portellam/vfio-collection
 [02]: https://github.com/portellam/vfio-collection
 
----
+##
 
 ## Table of Contents
 - [1. Related Projects](#1-related-projects)
@@ -77,6 +77,6 @@ The linux kernel. Accessed June 14, 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>https://github.com/libvirt/libvirt/blob/master/docs/formatdomain.rst.</sup>
 
----
+##
 
 #### Click [here](#vfio-collection) to return to the top of this document.
