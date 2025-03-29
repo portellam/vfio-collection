@@ -1,7 +1,7 @@
 # VFIO Collection
 A curated compilation and directory of VFIO related projects.
 
-#### View repository on [Codeberg][01] | [GitHub][02]
+#### View this repository on [Codeberg][01], [GitHub][02].
 [01]: https://codeberg.org/portellam/vfio-collection
 [02]: https://github.com/portellam/vfio-collection
 ##
@@ -51,10 +51,9 @@ A curated compilation and directory of VFIO related projects.
 
 ##
 ### 3. Contact
-Wish to recommend a project? Do you
-need help? Please visit the [Issues page][31].
+Wish to recommend a project? Do you need help? Please visit the [Issues][31] page.
 
-[31]: ./issues
+[31]: ../../../issues
 
 ##
 ### 4. References
