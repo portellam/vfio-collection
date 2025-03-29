@@ -1,10 +1,10 @@
 # VFIO Collection
 A curated compilation and directory of VFIO related projects.
 
-##
-### Alternate Git repositories: [Codeberg][01] | [GitHub][02]
+**Available Clones:** [Codeberg][01] | [GitHub][02]
 [01]: https://codeberg.org/portellam/vfio-collection
 [02]: https://github.com/portellam/vfio-collection
+##
 
 ## Table of Contents
 - [1. Related Projects](#1-related-projects)
