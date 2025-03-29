@@ -53,7 +53,7 @@ A curated compilation and directory of VFIO related projects.
 ### 3. Contact
 Wish to recommend a project? Do you need help? Please visit the [Issues][31] page.
 
-[31]: /../../issues
+[31]: https://github.com/portellam/vfio-collection/issues
 
 ##
 ### 4. References
