@@ -40,7 +40,7 @@ A curated compilation and directory of VFIO related projects.
 [112]: https://github.com/portellam/parse-iommu-devices
 [113]: https://codeberg.org/portellam/powerstate-virtmanager
 [114]: https://github.com/portellam/powerstate-virtmanager
-[116]: https://codeberg.org/portellam/vfio-script
+[115]: https://codeberg.org/portellam/vfio-script
 [116]: https://github.com/portellam/vfio-script
 
 ### 2. Documentation
@@ -76,7 +76,6 @@ The linux kernel. Accessed June 14, 2024.
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>https://www.reddit.com/r/VFIO/.</sup>
 
 #### 4.
-##
 &nbsp;&nbsp;**XML Design Format**. GitHub - libvirt/libvirt. Accessed June 18, 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>https://github.com/libvirt/libvirt/blob/master/docs/formatdomain.rst.</sup>
