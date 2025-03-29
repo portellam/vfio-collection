@@ -4,7 +4,6 @@ A curated compilation and directory of VFIO related projects.
 ### Alternate Git repositories: [Codeberg][01] | [GitHub][02]
 [01]: https://codeberg.org/portellam/vfio-collection
 [02]: https://github.com/portellam/vfio-collection
-
 ##
 
 ## Table of Contents
@@ -15,6 +14,7 @@ A curated compilation and directory of VFIO related projects.
 
 ## Contents
 ### 1. Related Projects
+##
 | Project                             | Codeberg    | GitHub      |
 | :---                                | :---:       | :---:       |
 | Auto X.Org                          | [link][101] | [link][102] |
@@ -44,18 +44,21 @@ A curated compilation and directory of VFIO related projects.
 [116]: https://github.com/portellam/vfio-script
 
 ### 2. Documentation
+##
 - What is VFIO?[<sup>[2]</sup>](#2)
 - VFIO Discussion and Support[<sup>[3]</sup>](#3)
 - Hardware-Passthrough Guide[<sup>[1]</sup>](#1)
 - Virtual Machine XML Format Guide[<sup>[4]</sup>](#4)
 
 ### 3. Contact
+##
 Wish to recommend a project? Do you
 need help? Please visit the [Issues page][31].
 
 [31]: ./issues
 
 ### 4. References
+##
 #### 1.
 &nbsp;&nbsp;**PCI passthrough via OVMF**. ArchWiki. Accessed June 14, 2024.
 
@@ -73,10 +76,10 @@ The linux kernel. Accessed June 14, 2024.
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>https://www.reddit.com/r/VFIO/.</sup>
 
 #### 4.
+##
 &nbsp;&nbsp;**XML Design Format**. GitHub - libvirt/libvirt. Accessed June 18, 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>https://github.com/libvirt/libvirt/blob/master/docs/formatdomain.rst.</sup>
-
 ##
 
 #### Click [here](#vfio-collection) to return to the top of this document.
