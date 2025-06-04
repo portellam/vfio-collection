@@ -1,19 +1,23 @@
 # VFIO Collection
+
 A curated compilation and directory of VFIO related projects.
 
 #### View this repository on [Codeberg][01] or [GitHub][02].
 [01]: https://codeberg.org/portellam/vfio-collection
 [02]: https://github.com/portellam/vfio-collection
+
 ##
 
 ## Table of Contents
-- [1. Related Projects](#1-related-projects)
-- [2. Documentation](#2-documentation)
-- [3. Contact](#3-contact)
-- [4. References](#4-references)
+
+- [🛠️ 1. Related Projects](#-1-related-projects)
+- [📝 2. Documentation](#-2-documentation)
+- [☎️ 3. Contact](#-3-contact)
+- [🌐 4. References](#-4-references)
 
 ## Contents
-### 1. Related Projects
+
+### 🛠️ 1. Related Projects
 | Project                             | Codeberg    | GitHub      |
 | :---                                | :---:       | :---:       |
 | Auto X.Org                          | [link][101] | [link][102] |
@@ -43,40 +47,57 @@ A curated compilation and directory of VFIO related projects.
 [116]: https://github.com/portellam/vfio-script
 
 ##
-### 2. Documentation
-- What is VFIO?[<sup>[2]</sup>](#2)
-- VFIO Discussion and Support[<sup>[3]</sup>](#3)
-- Hardware-Passthrough Guide[<sup>[1]</sup>](#1)
-- Virtual Machine XML Format Guide[<sup>[4]</sup>](#4)
+
+### 📝 2. Documentation
+- What is IOMMU? [<sup>\[1\]</sup>](#1)
+- What is VFIO? [<sup>\[2\]</sup>](#2)
+- VFIO Discussion and Support [<sup>\[3\]</sup>](#3)
+- Hardware/PCI Pass-through Guide [<sup>\[4\]</sup>](#4)
+- Virtual Machine XML Format Guide[<sup>\[5\]</sup>](#5)
 
 ##
-### 3. Contact
+
+### ☎️ 3. Contact
 Wish to recommend a project? Do you need help? Please visit the [Issues][31] page.
 
 [31]: https://github.com/portellam/vfio-collection/issues
 
 ##
-### 4. References
-#### 1.
-&nbsp;&nbsp;**PCI passthrough via OVMF**. ArchWiki. Accessed June 14, 2024.
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>https://wiki.archlinux.org/title/PCI_passthrough_via_OVMF.</sup>
+### 🌐 4. References
+
+#### 1.
+
+&nbsp;&nbsp;**Input-output memory management unit**. Wikipedia. Accessed
+June 4, 2025.
+
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>[https://en.wikipedia.org/wiki/Input%E2%80%93output\_memory\_management\_unit](https://en.wikipedia.org/wiki/Input%E2%80%93output_memory_management_unit).</sup>
 
 #### 2.
+
 &nbsp;&nbsp;**VFIO - ‘Virtual Function I/O’ - The Linux Kernel Documentation**.
 The linux kernel. Accessed June 14, 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>https://www.kernel.org/doc/html/latest/driver-api/vfio.html.</sup>
 
 #### 3.
+
 &nbsp;&nbsp;**VFIO Discussion and Support**. Reddit. Accessed June 14, 2024.
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sup>https://www.reddit.com/r/VFIO/.</sup>
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>https://old.reddit.com/r/VFIO/.</sup>
 
 #### 4.
+
+&nbsp;&nbsp;**PCI passthrough via OVMF**. ArchWiki. Accessed June 14, 2024.
+
+&nbsp;&nbsp;&nbsp;&nbsp;<sup>https://wiki.archlinux.org/title/PCI_passthrough_via_OVMF.</sup>
+
+#### 5.
+
 &nbsp;&nbsp;**XML Design Format**. GitHub - libvirt/libvirt. Accessed June 18, 2024.
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>https://github.com/libvirt/libvirt/blob/master/docs/formatdomain.rst.</sup>
+
 ##
 
 #### Click [here](#vfio-collection) to return to the top of this document.
