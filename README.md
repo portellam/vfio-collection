@@ -18,16 +18,16 @@ A curated compilation and directory of VFIO related projects.
 ## Contents
 
 ### 🛠️ 1. Related Projects
-| Project                             | Codeberg    | GitHub      |
-| :---                                | :---:       | :---:       |
-| Auto X.Org                          | [link][101] | [link][102] |
-| Deploy VFIO                         | [link][103] | [link][104] |
-| Generate Evdev                      | [link][105] | [link][106] |
-| Guest Machine Guide                 | [link][107] | [link][108] |
-| Libvirt Hooks                       | [link][109] | [link][110] |
-| Parse IOMMU Devices                 | [link][111] | [link][112] |
-| Power State Virtual Machine Manager | [link][113] | [link][114] |
-| VFIO Script                         | [link][115] | [link][116] |
+| Project                               | Codeberg    | GitHub      |
+| :---                                  | :---:       | :---:       |
+| *Auto X.Org*                          | [link][101] | [link][102] |
+| *Deploy VFIO*                         | [link][103] | [link][104] |
+| *Generate Evdev*                      | [link][105] | [link][106] |
+| *Guest Machine Guide*                 | [link][107] | [link][108] |
+| *Libvirt Hooks*                       | [link][109] | [link][110] |
+| *Parse IOMMU Devices*                 | [link][111] | [link][112] |
+| *Power State Virtual Machine Manager* | [link][113] | [link][114] |
+| *VFIO Script*                         | [link][115] | [link][116] |
 
 [101]: https://codeberg.org/portellam/auto-xorg
 [102]: https://github.com/portellam/auto-xorg
@@ -53,7 +53,7 @@ A curated compilation and directory of VFIO related projects.
 - What is VFIO? [<sup>\[2\]</sup>](#2)
 - VFIO Discussion and Support [<sup>\[3\]</sup>](#3)
 - Hardware/PCI Pass-through Guide [<sup>\[4\]</sup>](#4)
-- Virtual Machine XML Format Guide[<sup>\[5\]</sup>](#5)
+- Virtual Machine XML Format Guide [<sup>\[5\]</sup>](#5)
 
 ##
 
